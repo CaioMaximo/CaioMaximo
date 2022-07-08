@@ -8,86 +8,151 @@
   
 
 - ❓ Ask me about JavaScript, Node.JS and Java  
-
-- 📫 How to reach me **caiomaximo@icloud.com**
   
 
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+#### :link: Connect with me
 
+<table cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+          <td>
+            <a href="https://www.linkedin.com/in/caiomaximogregorio/" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" />
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/CaioMaximo" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="28" height="28" />
+            </a>
+          </td>
+          <td>
+            <a href="https://www.instagram.com/caiomgregorio/" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="28" height="28" />
+            </a>
+          </td>
+      </tr>
+  </tbody>  
+</table>
 
+#### :alien: Backend Skills
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
-</div>
+<table cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+                </a>
+            </td>
+            <td>
+                <a href=" https://www.java.com/pt-BR/ " target="_blank" rel="noreferrer">
+                    <img src=" https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg " width="36" height="36" alt=" Java " />
+                </a>
+            </td>
+            <td>
+                <a href=" https://profilinator.rishav.dev/skills-assets/javascript-original.svg " target="_blank" rel="noreferrer">
+                    <img src=" https://profilinator.rishav.dev/skills-assets/javascript-original.svg " width="36" height="36" alt="Typescript" />
+                </a>
+            </td>
+            <td>
+                <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
+                </a>
+            </td>
+            <td>
+                <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
+                </a>
+            </td>
+         </tr>
+    </tbody>  
+</table>
 
-</td><td valign="top" width="33%">
+#### :space_invader: Frontend Skills
 
+<table cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td>
+                <a href=" https://www.w3.org/TR/CSS/#css " target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+                </a>
+            </td>
+            <td>
+                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+                </a>
+            </td>
+            <td>
+                <a href=" https://profilinator.rishav.dev/skills-assets/javascript-original.svg " target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
+                </a>
+            </td>
+        </tr>
+    </tbody>  
+</table>
 
+#### :bucket: Data Skills
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-</div>
+<table cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+                </a>
+            </td>
+            <td>
+                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-</td><td valign="top" width="33%">
+#### :hammer_and_wrench: Tools
 
+<table cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td>
+                <a href=" https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg " target="_blank" rel="noreferrer">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="36" />
+                </a>
+            </td>
+            <td>
+                <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="36" />
+                </a>
+            </td>
+            <td>
+                <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="36" />
+                </a>
+            </td>
+            <td>
+                <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="36" />
+                </a>
+            </td>
+            <td>
+                <a href="https://code.visualstudio.com/" rel="noreferrer" target="_blank">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" width="36" />
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
+#### Badges
 
-</td></tr></table>  
+<b>My GitHub Stats</b>
 
-<br/>  
+<a href=" https://github-readme-stats.vercel.app/api?username=CaioMaximo&show_icons=true&count_private=true&hide_border=true "><img src=" https://github-readme-stats.vercel.app/api/top-langs?username=caiomaximo&show_icons=true&locale=en&layout=compact " /></a>
 
+------
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/CaioMaximo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/caiomaximogregorio" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CaioMaximo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiomaximo&show_icons=true&locale=en&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-<!---
-- 👋 Hi, I’m @CaioMaximo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-CaioMaximo/CaioMaximo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
