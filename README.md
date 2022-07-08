@@ -53,8 +53,8 @@
                 </a>
             </td>
             <td>
-                <a href=" https://profilinator.rishav.dev/skills-assets/javascript-original.svg " target="_blank" rel="noreferrer">
-                    <img src=" https://profilinator.rishav.dev/skills-assets/javascript-original.svg " width="36" height="36" alt="Typescript" />
+                <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+                    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg " width="36" height="36" alt=" JavaScript " />
                 </a>
             </td>
             <td>
@@ -152,7 +152,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href=" https://github-readme-stats.vercel.app/api?username=CaioMaximo&show_icons=true&count_private=true&hide_border=true "><img src=" https://github-readme-stats.vercel.app/api/top-langs?username=caiomaximo&show_icons=true&locale=en&layout=compact " /></a>
+<a href=" https://github.com/CaioMaximo "><img src=" https://github-readme-stats.vercel.app/api/top-langs?username=caiomaximo&show_icons=true&locale=en&layout=compact " /></a>
 
 ------
 
