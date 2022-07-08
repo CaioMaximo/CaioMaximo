@@ -48,7 +48,7 @@
                 </a>
             </td>
             <td>
-                <a href=" https://www.java.com/pt-BR/ " target="_blank" rel="noreferrer">
+                <a href=" https://www.java.com/ " target="_blank" rel="noreferrer">
                     <img src=" https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg " width="36" height="36" alt=" Java " />
                 </a>
             </td>
